@@ -5,7 +5,7 @@ import requests as req
 os.system("g++ -o o1 prog1.cpp")
 os.system("g++ -o o2 prog2.cpp")
 cases=[]
-problem_code="COINS"
+problem_code=input("Enter problem code in BOLD CAPITAL LETTERS\n")
 sor=req.get("http://spojtoolkit.com/history/"+problem_code).text
 #print(sor.status_code)
 soup = bs(sor,'lxml').text
