@@ -2,7 +2,7 @@
 I wrote this in 2019 back when spojtoolkit was working.
 The toolkit doesnt work now so this has also become rogue.I hope it comes back.
 I am uploading this just because it was too much usefull for me back at the time and also
-because I dont have anything else to uploat here.
+because I dont have anything else to upload here.
 
 
 ----------------------------ABOUT---------------------------------
